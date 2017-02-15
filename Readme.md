@@ -22,7 +22,8 @@
 	understanding of the C++ language. In order to win, the player must guess 
 	the correct word within a set number if guesses (the number of guesses are 
 	based on the number of letters in the current word). Upon each guess, the 
-	player is told how close they are to the word, by the number of "cows" (right letter in the wrong place) or "bulls" (right letter in the right place) in 
+	player is told how close they are to the word, by the number of "cows" (right 
+	letter in the wrong place) or "bulls" (right letter in the right place) in 
 	their guess. The game randomly chooses between a set of 3-11 letter isograms
 	(words without repeating letters) and adjusts the number of guesses allowed 
 	based on the amount of letters in the word. Win or lose, the player is asked
